@@ -149,8 +149,8 @@
           <!-- Links/Buttons -->
           <div class="links">
           {% if entry.award %}
-            <a class="award btn btn-sm z-depth-0" role="button">
-              {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+            <a class="award btn btn-sm z-depth-0 btn-yellow border-0" role="button">
+              {%- if entry.award %}{{ entry.award }}{% else %}Awarded{% endif -%}
             </a>
           {% endif %}
           {%- if entry.abstract %}

@@ -5,5 +5,5 @@ title: CV
 nav: true
 newtab: true
 nav_order: 2
-redirect_to: /assets/pdf/Seonghoon_CV_public_250626.pdf
+redirect_to: /assets/pdf/Seonghoon_CV_public_250714.pdf
 ---

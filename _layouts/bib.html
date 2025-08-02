@@ -148,11 +148,7 @@
 
           <!-- Links/Buttons -->
           <div class="links">
-          {% if entry.award %}
-            <a class="award btn btn-sm z-depth-0 btn-yellow border-0" role="button">
-              {%- if entry.award %}{{ entry.award }}{% else %}Awarded{% endif -%}
-            </a>
-          {% endif %}
+
           <!-- {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %} -->
@@ -219,6 +215,11 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+
+          {% if entry.award %} <!-- ADD for award -->
+            <span class="btn btn-sm z-depth-0" style="background-color: #ebaf0a; color: white !important; cursor: default; padding: 0.1rem 0.5rem;">🏆 {{ entry.award }}</span>
+          {% endif %}
+
           </div>
           {% if site.badges %}
           <div class="badges">
@@ -231,12 +232,12 @@
           </div>
           {%- endif %}
 
-          {% if entry.award %}
+          <!-- {% if entry.award %} -->
             <!-- Hidden Award block -->
-            <div class="award hidden d-print-inline">
+            <!-- <div class="award hidden d-print-inline">
               <p>{{ entry.award | markdownify }}</p>
-            </div>
-          {% endif %}
+            </div> -->
+          <!-- {% endif %} -->
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->

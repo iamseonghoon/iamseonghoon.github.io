@@ -32,7 +32,7 @@ Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun
 **ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality**  
 Chanyoung Jung\*, Jeho Lee\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiSys 2025 (Acceptance rate: 18.0%)*  
-***🏆 Best Paper Award!***  
+🏆 *** Best Paper Award!***  
 [[Paper]](https://dl.acm.org/doi/10.1145/3711875.3729161)
 
 
@@ -73,7 +73,7 @@ Joonbeom Park, <u>Seonghoon Park</u>, and Hojung Cha
 *IEEE PerCom 2021 (Acceptance rate: 10.6% for full papers)*  
 [[Paper]](https://ieeexplore.ieee.org/document/9439113)
 
-# 2019
+## 2019
 **Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-Enabled Mobile Devices**  
 Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiCom 2019 (Acceptance rate: 19.0%)*  

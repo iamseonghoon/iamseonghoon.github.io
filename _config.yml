@@ -23,7 +23,7 @@ repository               : "iamseonghoon/iamseonghoon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_seonghoon.jpg" # filename of avatar image placed in /images/ for the author profile
   name             : "Seonghoon Park"
   pronouns         : # "he/him"
   bio              : "Postdoctoral Associate at Virginia Tech"

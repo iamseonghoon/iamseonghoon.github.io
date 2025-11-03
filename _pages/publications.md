@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-\* indicates co-first authors. This page is currently under construction.
+\* indicates co-first authors.
 
 ## 2025
 **EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos**  
@@ -25,7 +25,7 @@ Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun
 
 **Ember: Task Wakeup Sequence–Based Energy Optimization for Mobile Web Browsing**  
 <u>Seonghoon Park</u>, Jiwon Kim, Jeho Lee, Hojung Cha  
-*ACM EMSOFT 2025*  
+*ACM EMSOFT 2025 (Acceptance rate: 27%)*  
 *ACM Transactions on Embedded Computing Systems, Vol. 24, No. 5s*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3757918)
 
@@ -81,5 +81,5 @@ Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha
 
 **Graphics-Aware Power Governing for Mobile Devices**  
 Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha  
-*ACM MobiSys 2019 (Acceptance rate: 22.7% for full papers)*  
+*ACM MobiSys 2019 (Acceptance rate: 22.7%)*  
 [[Paper]](https://ieeexplore.ieee.org/document/9439113)

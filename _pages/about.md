@@ -34,6 +34,6 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 * **[2025.06]** Our work ‘ARIA’ has been awarded the Best Paper Award from ACM MobiSys 2025!
 * **[2025.04]** One paper has been accepted to ACM MobiSys 2025!
 * **[2024.06]** I received a Ph.D. Fellowship from the National Research Foundation of Korea (NRF).
-* **[2023.12]** Our work ‘Vulture’ has been accepted to IEEE INFOCOM 2024.
-* **[2023.05]** Our work ‘OmniLive’ has been accepted to ACM MobiSys 2023.
-* **[2022.12]** Our work ‘Crow API’ has been accepted to IEEE INFOCOM 2023.
+* **[2023.12]** One paper has been accepted to IEEE INFOCOM 2024.
+* **[2023.05]** One paper has been accepted to ACM MobiSys 2023.
+* **[2022.12]** One paper has been accepted to IEEE INFOCOM 2023.

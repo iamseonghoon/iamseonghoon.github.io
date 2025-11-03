@@ -23,9 +23,11 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 * **Energy-aware mobile systems:** AI-based energy optimization for mobile devices, energy-aware neural network inference, energy-efficient immersive computing.
 * **Cross-device computing:** Collaborative computation and sensing techniques among personal mobile devices (e.g., smartphones, wearable devices, IoT devices) for advanced mobile AI/XR applications.
 
+
 ## Academic Servicies ✍️
 * **TPC:** ACM MobiSys 2026
 * **Peer reviewer:** IEEE Transactions on Mobile Computing, IEEE/ACM Transactions on Networking
+
 
 ## News 📢
 * **[2025.10]** I will serve on the TPC of ACM MobiSys 2026.

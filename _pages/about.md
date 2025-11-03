@@ -30,15 +30,14 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 
 ## News 📢
-* **[2025.10]** I will serve on the TPC of ACM MobiSys 2026.
+* **[2025.10]** I have been invited to serve on the TPC for ACM MobiSys 2026.
 * **[2025.10]** I joined Virginia Tech as a Postdoctoral Associate.
 * **[2025.08]** Two papers have been accepted to ACM MobiCom 2025.
 * **[2025.08]** One paper has been accepted to the ACM TECS journal.
 * **[2025.07]** One paper has been accepted to ACM EMSOFT 2025.
-* **[2025.06]** Our work ‘ARIA’ has been awarded the Best Paper Award from ACM MobiSys 2025!
+* **[2025.06]** Our work ‘ARIA’ received the Best Paper Award from ACM MobiSys 2025!
 * **[2025.04]** One paper has been accepted to ACM MobiSys 2025!
 * **[2024.06]** I received a Ph.D. Fellowship from the National Research Foundation of Korea (NRF).
 * **[2023.12]** One paper has been accepted to IEEE INFOCOM 2024.
 * **[2023.05]** One paper has been accepted to ACM MobiSys 2023.
 * **[2022.12]** One paper has been accepted to IEEE INFOCOM 2023.
-

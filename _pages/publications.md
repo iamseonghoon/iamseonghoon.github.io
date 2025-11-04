@@ -33,7 +33,7 @@ Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun
 Chanyoung Jung\*, Jeho Lee\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiSys 2025 (Acceptance rate: 18.0%)*  
 🏆 ***Best Paper Award!***  
-[[Paper]](https://dl.acm.org/doi/10.1145/3711875.3729161)
+[[Paper]](https://dl.acm.org/doi/10.1145/3711875.3729161) [[Video]](https://youtu.be/kxos6AXShIU)
 
 
 ## 2024
@@ -77,9 +77,9 @@ Joonbeom Park, <u>Seonghoon Park</u>, and Hojung Cha
 **Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-Enabled Mobile Devices**  
 Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiCom 2019 (Acceptance rate: 19.0%)*  
-[[Paper]](https://ieeexplore.ieee.org/document/9488671)
+[[Paper]](https://ieeexplore.ieee.org/document/9488671) [[Video]](https://youtu.be/Kln7XbRSBX8)
 
 **Graphics-Aware Power Governing for Mobile Devices**  
 Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiSys 2019 (Acceptance rate: 22.7%)*  
-[[Paper]](https://ieeexplore.ieee.org/document/9439113)
+[[Paper]](https://ieeexplore.ieee.org/document/9439113) [[Video]](https://youtu.be/zUNttnaj5eY)

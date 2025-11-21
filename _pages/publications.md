@@ -11,12 +11,12 @@ author_profile: true
 **EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos**  
 <u>Seonghoon Park</u>, Minchan Kim, Hyejin Park, Jeho Lee, Jiwon Kim, Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
-[[Paper]]()
+[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765252)
 
 **Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting**  
 Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
-[[Paper]]()
+[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765267)
 
 **Duration-Aware Sound Event Detection on Ultra-Low-Power Sensor Devices**  
 <u>Seonghoon Park</u>, Junick Ahn, Daeyong Kim, Hojung Cha  

@@ -31,12 +31,13 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 ## News 📢
 * **[2026.01]** I will be joining Yonsei University as an Assistant Professor in Fall 2026! I am looking for highly motivated Ph.D./M.S. students.
+* **[2026.01]** Our work `ARIA` has been featured as a Research Highlight in ACM GetMobile.
 * **[2025.10]** I have been invited to serve on the TPC for ACM MobiSys 2026.
 * **[2025.10]** I joined Virginia Tech as a Postdoctoral Associate.
 * **[2025.08]** Two papers have been accepted to ACM MobiCom 2025.
 * **[2025.08]** One paper has been accepted to the ACM TECS journal.
 * **[2025.07]** One paper has been accepted to ACM EMSOFT 2025.
-* **[2025.06]** Our work ‘ARIA’ received the Best Paper Award 🏆 from ACM MobiSys 2025!
+* **[2025.06]** Our work `ARIA` received the Best Paper Award 🏆 from ACM MobiSys 2025!
 * **[2025.04]** One paper has been accepted to ACM MobiSys 2025.
 * **[2024.06]** I received a Ph.D. Fellowship from the National Research Foundation of Korea (NRF).
 * **[2023.12]** One paper has been accepted to IEEE INFOCOM 2024.

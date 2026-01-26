@@ -10,7 +10,7 @@ author_profile: true
 ## 2026
 **VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality**  
 Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  
-*GetMobile: Mobile Computing and Communications, Vol. 29, No. 4 (Invited)* 
+*GetMobile: Mobile Computing and Communications, Vol. 29, No. 4 (Invited)*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3793236.3793246)
 
 ## 2025

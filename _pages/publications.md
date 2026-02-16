@@ -7,16 +7,22 @@ author_profile: true
 
 \* indicates co-first authors.
 
+## 2026
+**VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality**  
+Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  
+*GetMobile: Mobile Computing and Communications, Vol. 29, No. 4 (Invited)*  
+[[Paper]](https://dl.acm.org/doi/10.1145/3793236.3793246)
+
 ## 2025
 **EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos**  
 <u>Seonghoon Park</u>, Minchan Kim, Hyejin Park, Jeho Lee, Jiwon Kim, Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
-[[Paper]]()
+[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765252)
 
 **Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting**  
 Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
-[[Paper]]()
+[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765267)
 
 **Duration-Aware Sound Event Detection on Ultra-Low-Power Sensor Devices**  
 <u>Seonghoon Park</u>, Junick Ahn, Daeyong Kim, Hojung Cha  

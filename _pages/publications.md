@@ -8,29 +8,33 @@ author_profile: true
 \* indicates co-first authors.
 
 ## 2026
+**3DGS on Your Phone: Towards Fully Immersive Mobile Volumetric Video Streaming**  
+Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, and Hojung Cha  
+*ACM SIGMOBILE GetMobile, to appear (Invited Research Highlight)*  
+
 **VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality**  
 Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  
-*GetMobile: Mobile Computing and Communications, Vol. 29, No. 4 (Invited)*  
+*ACM SIGMOBILE GetMobile, Vol. 29, No. 4 (Invited Research Highlight)*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3793236.3793246)
 
 ## 2025
 **EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos**  
-<u>Seonghoon Park</u>, Minchan Kim, Hyejin Park, Jeho Lee, Jiwon Kim, Hojung Cha  
+<u>Seonghoon Park</u>, Minchan Kim, Hyejin Park, Jeho Lee, Jiwon Kim, and Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765252)
 
 **Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting**  
-Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, Hojung Cha  
+Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, and Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765267)
 
 **Duration-Aware Sound Event Detection on Ultra-Low-Power Sensor Devices**  
-<u>Seonghoon Park</u>, Junick Ahn, Daeyong Kim, Hojung Cha  
+<u>Seonghoon Park</u>, Junick Ahn, Daeyong Kim, and Hojung Cha  
 *ACM Transactions on Embedded Computing Systems, Vol. 24, No. 6*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3761806)
 
 **Ember: Task Wakeup Sequence–Based Energy Optimization for Mobile Web Browsing**  
-<u>Seonghoon Park</u>, Jiwon Kim, Jeho Lee, Hojung Cha  
+<u>Seonghoon Park</u>, Jiwon Kim, Jeho Lee, and Hojung Cha  
 *ACM EMSOFT 2025 (Acceptance rate: 27%)*  
 *ACM Transactions on Embedded Computing Systems, Vol. 24, No. 5s*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3757918)
@@ -44,7 +48,7 @@ Chanyoung Jung\*, Jeho Lee\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, an
 
 ## 2024
 **Vulture: Cross-Device Web Experience with Fine-Grained Graphical User Interface Distribution**  
-<u>Seonghoon Park</u>, Jiwon Kim, Jeho Lee, Hojung Cha  
+<u>Seonghoon Park</u>, Jiwon Kim, Jeho Lee, and Hojung Cha  
 *IEEE INFOCOM 2024 (Acceptance rate: 19.6%)*  
 [[Paper]](https://ieeexplore.ieee.org/document/10621433) [[Demo]](https://youtu.be/PY3IzOVTtBU)
 

@@ -11,11 +11,11 @@ I am a Postdoctoral Associate in Computer Science at Virginia Tech, supervised b
 
 Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science from Yonsei University, Seoul, South Korea in August 2025. During my Ph.D, I was a member of Mobile Embedded Systems Lab supervised by [Prof. Hojung Cha](https://mobed.yonsei.ac.kr/). I also received the B.S. degree in Computer Science and Engineering from Yonsei University in February 2018.
 
-**✉️ E-mail:** *seonghoon (at) vt.edu* or *park (at) seonghoon.email*
-{: .notice}
-
 📣 I will be joining Yonsei University as an Assistant Professor in Fall 2026! I am looking for highly motivated Ph.D./M.S. students.
-{: .notice--success}
+{: .notice--warning}
+
+**✉️ E-mail:** *seonghoon (at) vt.edu* or *park (at) seonghoon.email*
+{: .notice--info}
 
 
 ## Research Interests 💡

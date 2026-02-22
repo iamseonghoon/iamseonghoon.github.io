@@ -8,13 +8,13 @@ author_profile: true
 \* indicates co-first authors.
 
 ## 2026
+**viNPU: Optimizing Vision Transformer Inference on Mobile NPUs**  
+Jeho Lee, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, <u>Seonghoon Park</u>, Hojung Cha  
+*ACM EuroSys 2026, to appear (Acceptance rate: 18.5% for the fall round)*  
+
 **3DGS on Your Phone: Towards Fully Immersive Mobile Volumetric Video Streaming**  
 Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, and Hojung Cha  
 *ACM SIGMOBILE GetMobile, to appear (Invited Research Highlight)*  
-
-**viNPU: Optimizing Vision Transformer Inference on Mobile NPUs**  
-Jeho Lee, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, <u>Seonghoon Park</u>, Hojung Cha
-*ACM EuroSys 2026, to appear (Acceptance rate: 18.5% for the fall round)*  
 
 **VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality**  
 Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  

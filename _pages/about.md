@@ -14,8 +14,8 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 **✉️ E-mail:** *seonghoon (at) vt.edu* or *park (at) seonghoon.email*
 {: .notice}
 
-I will be joining Yonsei University as an Assistant Professor in Fall 2026! I am looking for highly motivated Ph.D./M.S. students.
-{: .notice--danger}
+📣 I will be joining Yonsei University as an Assistant Professor in Fall 2026! I am looking for highly motivated Ph.D./M.S. students.
+{: .notice--success}
 
 
 ## Research Interests 💡

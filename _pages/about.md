@@ -13,7 +13,9 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 
 **✉️ E-mail:** *seonghoon (at) vt.edu* or *park (at) seonghoon.email*
 {: .notice}
-<!-- {: .notice--danger} -->
+
+I will be joining Yonsei University as an Assistant Professor in Fall 2026! I am looking for highly motivated Ph.D./M.S. students.
+{: .notice--danger}
 
 
 ## Research Interests 💡
@@ -30,7 +32,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 
 ## News 📢
-* **[2026.01]** I will be joining Yonsei University as an Assistant Professor in Fall 2026! I am looking for highly motivated Ph.D./M.S. students.
+* **[2026.02]** One paper has been accepted to ACM EuroSys 2026.
 * **[2026.01]** Our work `ARIA` has been featured as a Research Highlight in ACM GetMobile.
 * **[2025.10]** I have been invited to serve on the TPC for ACM MobiSys 2026.
 * **[2025.10]** I joined Virginia Tech as a Postdoctoral Associate.

@@ -28,12 +28,12 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 ## Academic Servicies ✍️
 **TPC:**
-2026: ACM MobiSys  
+* 2026: ACM MobiSys  
 
 **Journal reviewer**
-IEEE Transactions on Mobile Computing (TMC)  
-IEEE/ACM Transactions on Networking (ToN)  
-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* IEEE Transactions on Mobile Computing (TMC)  
+* IEEE/ACM Transactions on Networking (ToN)  
+* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 
 ## News 📢

@@ -14,11 +14,11 @@ Jeho Lee, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, <u>Seonghoon Park</u>, Hojun
 
 **3DGS on Your Phone: Towards Fully Immersive Mobile Volumetric Video Streaming**  
 Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, and Hojung Cha  
-*ACM SIGMOBILE GetMobile, to appear (Invited Research Highlight)*  
+*ACM GetMobile, to appear (Invited Research Highlight)*  
 
 **VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality**  
 Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  
-*ACM SIGMOBILE GetMobile, Vol. 29, No. 4 (Invited Research Highlight)*  
+*ACM GetMobile, Vol. 29, No. 4 (Invited Research Highlight)*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3793236.3793246)
 
 ## 2025

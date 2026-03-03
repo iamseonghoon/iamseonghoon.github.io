@@ -28,7 +28,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 **Mobile immersive computing:**
 * NeRF/3DGS-based volumetric video streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765267)]  
-* Neural-enhanced 360° video live streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
+* Neural-enhanced 360&deg; video live streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
 
 **Energy-aware mobile systems:**
 * Energy-efficient on-device AI inference [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [ACM TECS '24](https://dl.acm.org/doi/10.1145/3761806)]

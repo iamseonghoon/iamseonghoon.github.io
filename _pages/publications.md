@@ -91,9 +91,9 @@ Joonbeom Park, <u>Seonghoon Park</u>, and Hojung Cha
 **Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-Enabled Mobile Devices**  
 Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiCom 2019 (Acceptance rate: 19.0%)*  
-[[Paper]](https://ieeexplore.ieee.org/document/9488671) [[Video]](https://youtu.be/Kln7XbRSBX8)
+[[Paper]](https://dl.acm.org/doi/10.1145/3300061.3345449) [[Video]](https://youtu.be/Kln7XbRSBX8)
 
 **Graphics-Aware Power Governing for Mobile Devices**  
 Yonghun Choi, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM MobiSys 2019 (Acceptance rate: 22.7%)*  
-[[Paper]](https://ieeexplore.ieee.org/document/9439113) [[Video]](https://youtu.be/zUNttnaj5eY)
+[[Paper]](https://dl.acm.org/doi/10.1145/3307334.3326075) [[Video]](https://youtu.be/zUNttnaj5eY)

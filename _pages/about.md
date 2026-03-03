@@ -32,7 +32,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 **Energy-aware mobile systems:**
 * Energy-efficient on-device AI inference [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [ACM TECS '24](https://dl.acm.org/doi/10.1145/3761806)]
-* ML-based energy optimization [[EMSOFT '25](https://dl.acm.org/doi/10.1145/3757918), [MobiCom '19](https://ieeexplore.ieee.org/document/9488671)]
+* ML-based energy optimization [[EMSOFT '25](https://dl.acm.org/doi/10.1145/3757918), [MobiCom '19](https://dl.acm.org/doi/10.1145/3300061.3345449)]
 
 **Cross-device computing:**
 * Cross-device web computing [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621433), [INFOCOM '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]

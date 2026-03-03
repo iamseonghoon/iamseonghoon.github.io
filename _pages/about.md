@@ -22,12 +22,12 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.  
 
 **On-device AI:**
-* Inference optimization for mobile NPUs [[EuroSys '25](https://seonghoon.page/publications/)]
+* Inference optimization for mobile NPUs [[EuroSys '26](https://seonghoon.page/publications/)]
 * Efficient inference on heterogeneous processors (CPU/GPU/NPU) [[MobiSys '25](https://dl.acm.org/doi/10.1145/3711875.3729161)]
 * Learning and model design for real-time applications [[PerCom '21](https://ieeexplore.ieee.org/document/9439113)]
 
 **Mobile immersive computing:**
-* NeRF/3DGS-based volumetric video streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765267)]  
+* 3DGS-based volumetric video streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765267)]  
 * Neural-enhanced 360&deg; video live streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
 
 **Energy-aware mobile systems:**

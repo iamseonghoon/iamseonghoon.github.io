@@ -19,11 +19,23 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 
 
 ## Research Interests 💡
-My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.
-* **On-device AI:** Co-optimization of AI models and on-device inference techniques, scheduling optimization for heterogeneous mobile processors (e.g., CPU, GPU, NPU), and application-aware adaptive inference.
-* **Mobile immersive computing:** Neural-enhanced 360-degree video streaming for mobile devices, mobile volumetric video streaming using novel view synthesis technqieus (e.g., NeRF, 3DGS).
-* **Energy-aware mobile systems:** AI-based energy optimization for mobile devices, energy-aware neural network inference, energy-efficient immersive computing.
-* **Cross-device computing:** Collaborative computation and sensing techniques among personal mobile devices (e.g., smartphones, wearable devices, IoT devices) for advanced mobile AI/XR applications.
+My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.  
+
+**On-device AI:**
+* Inference optimization for mobile NPUs [[ACM EuroSys '25](https://seonghoon.page/publications/)]
+* Inference optimization for heterogeneous processors (CPU/GPU/NPU) [[ACM MobiSys '25](https://dl.acm.org/doi/10.1145/3711875.3729161)]
+
+**Mobile immersive computing:**
+* NeRF/3DGS-based volumetric video streaming [[ACM MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765267)]  
+* Neural-enhanced 360-degree video live streaming [[ACM MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [ACM MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
+
+**Energy-aware mobile systems:**
+* Energy-efficient on-device AI [[ACM MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [ACM TECS '24](https://dl.acm.org/doi/10.1145/3761806)]
+* ML-based energy optimization [[ACM EMSOFT '25](https://dl.acm.org/doi/10.1145/3757918), [ACM MobiCom '19](https://ieeexplore.ieee.org/document/9488671)]
+
+**Cross-device computing:**
+* Cross-device web computing [[IEEE INFOCOM '24](https://ieeexplore.ieee.org/document/10621433), [IEEE INFOCOM '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
+* Collaborative computation and sensing for mobile AI/XR applications
 
 
 ## Academic Servicies ✍️

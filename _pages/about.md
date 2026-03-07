@@ -22,21 +22,22 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.  
 
 **On-device AI:**
-* Inference optimization for mobile NPUs [[EuroSys '26](https://seonghoon.page/publications/)]
-* Efficient inference on heterogeneous processors (CPU/GPU/NPU) [[MobiSys '25](https://dl.acm.org/doi/10.1145/3711875.3729161)]
-* Learning and model design for real-time applications [[PerCom '21](https://ieeexplore.ieee.org/document/9439113)]
+* Optimizing ViT inference for NPUs [[EuroSys '26](https://seonghoon.page/publications/)]
+* Real-time VFM inference with heterogenous processors [[MobiSys '25](https://dl.acm.org/doi/10.1145/3711875.3729161)]
+* Real-time gaze tracking on smartphone screens [[PerCom '21](https://ieeexplore.ieee.org/document/9439113)]
 
 **Mobile immersive computing:**
 * 3DGS-based volumetric video streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765267)]  
-* Neural-enhanced 360&deg; video live streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
+* SR-enhanced 360&deg; video live streaming [[MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
 
 **Energy-aware mobile systems:**
-* Energy-efficient on-device AI inference [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252), [ACM TECS '24](https://dl.acm.org/doi/10.1145/3761806)]
-* ML-based energy optimization [[EMSOFT '25](https://dl.acm.org/doi/10.1145/3757918), [MobiCom '19](https://dl.acm.org/doi/10.1145/3300061.3345449)]
+* Energy-aware SR for live 360&deg; videos [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765252)]
+* Energy-aware sound event detection on sensor devices [[ACM TECS '24](https://dl.acm.org/doi/10.1145/3761806)]
+* ML-based energy optimization for smartphones [[EMSOFT '25](https://dl.acm.org/doi/10.1145/3757918), [MobiCom '19](https://dl.acm.org/doi/10.1145/3300061.3345449)]
 
 **Cross-device computing:**
 * Cross-device web computing [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621433), [INFOCOM '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
-* Mobile-edge collaborative computing for AI/XR applications
+* Mobile-edge collaborative computing for real-time AI/XR applications
 
 
 ## Academic Servicies ✍️
@@ -47,6 +48,9 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 * IEEE Transactions on Mobile Computing (TMC)  
 * IEEE/ACM Transactions on Networking (ToN)  
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+
+**Conference External Reviewer:**
+* WiOpt 2026
 
 
 ## News 📢

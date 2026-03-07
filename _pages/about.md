@@ -50,7 +50,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 **Conference External Reviewer:**
-* WiOpt 2026
+* IEEE/IFIP WiOpt 2026
 
 
 ## News 📢

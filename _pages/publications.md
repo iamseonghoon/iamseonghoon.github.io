@@ -25,12 +25,12 @@ Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, an
 **EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos**  
 <u>Seonghoon Park</u>, Minchan Kim, Hyejin Park, Jeho Lee, Jiwon Kim, and Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
-[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765252)
+[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765252) [[Video]](https://youtu.be/U9J5Cax3eL0)
 
 **Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting**  
 Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, and Hojung Cha  
 *ACM MobiCom 2025 (Acceptance rate: 10.3% for the winter round)*  
-[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765267)
+[[Paper]](https://dl.acm.org/doi/10.1145/3680207.3765267) [[Video]](https://youtu.be/rLd3ajRILws)
 
 **Duration-Aware Sound Event Detection on Ultra-Low-Power Sensor Devices**  
 <u>Seonghoon Park</u>, Junick Ahn, Daeyong Kim, and Hojung Cha  
@@ -64,9 +64,9 @@ Chanyoung Jung\*, Jeho Lee\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, an
 [[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596851) [[Teaser]](https://youtu.be/GfY0s3xcvb4)
 
 **Crow API: Cross-device I/O Sharing in Web Applications**  
-<u>Seonghoon Park</u>\*, Jeho Lee, and Hojung Cha  
+<u>Seonghoon Park</u>, Jeho Lee, and Hojung Cha  
 *IEEE INFOCOM 2023 (Acceptance rate: 19.2%)*  
-[[Paper]](https://dl.acm.org/doi/10.1145/3581791.3596851)
+[[Paper]](https://ieeexplore.ieee.org/document/10228950/)
 
 
 ## 2022

@@ -43,7 +43,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 ## Academic Servicies ✍️
 **Technical Program Committee (TPC):**
 * 2027: IEEE INFOCOM  
-* 2026: ACM MobiSys, IEEE/IFIP WiOpt  
+* 2026: ACM MobiSys, IEEE/IFIP WiOpt, ACM ImmerCom Workshop (Co-located with ACM MobiCom)   
 
 **Journal Reviewer:**
 * IEEE Transactions on Mobile Computing (TMC)  
@@ -52,6 +52,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 
 ## News 📢
+* **[2026.04]** I have been invited to serve on the TPC for ACM ImmerCom Workshop 2026, which will be held in conjution with ACM MobiCom 2026.
 * **[2026.04]** I have been invited to serve on the TPC for IEEE INFOCOM 2027.
 * **[2026.02]** One paper has been accepted to ACM EuroSys 2026.
 * **[2026.01]** Our work `ARIA` has been featured as a Research Highlight in ACM GetMobile.

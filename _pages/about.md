@@ -14,7 +14,7 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 📣 I will be joining Yonsei University as an Assistant Professor in the Department of Computer Science and Engineering starting in Fall 2026. I am looking for highly motivated Ph.D. and M.S. students.
 {: .notice--warning}
 
-**✉️ E-mail:** *seonghoon (at) vt.edu* or *park (at) seonghoon.email*
+**✉️ E-mail:** *seonghoon.park (at) yonsei.ac.kr*  or *seonghoon (at) vt.edu* 
 {: .notice--info}
 
 
@@ -22,9 +22,9 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.  
 
 **On-device AI:**
+* Dynamic ViT inference on edge devices [[EMSOFT '26 (To Appear)]]
 * Optimizing ViT inference for NPUs [[EuroSys '26](https://seonghoon.page/publications/)]
 * Real-time VFM inference with heterogenous processors [[MobiSys '25](https://dl.acm.org/doi/10.1145/3711875.3729161)]
-* Real-time gaze tracking on smartphone screens [[PerCom '21](https://ieeexplore.ieee.org/document/9439113)]
 
 **Mobile immersive computing:**
 * 3DGS-based volumetric video streaming [[MobiCom '25](https://dl.acm.org/doi/10.1145/3680207.3765267)]  
@@ -52,6 +52,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 
 ## News 📢
+* **[2026.07]** One paper has been accepted to IEEE/ACM EMSOFT 2026.
 * **[2026.04]** I have been invited to serve on the TPC for ACM ImmerCom Workshop 2026, which will be held in conjution with ACM MobiCom 2026.
 * **[2026.04]** I have been invited to serve on the TPC for IEEE INFOCOM 2027.
 * **[2026.02]** One paper has been accepted to ACM EuroSys 2026.

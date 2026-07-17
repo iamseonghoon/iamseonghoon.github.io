@@ -8,13 +8,19 @@ author_profile: true
 \* indicates co-first authors.
 
 ## 2026
+**DynaStitch: Dynamic ViT Inference via Neural Stitching for Resource-Constrained Edge Devices**
+Jiwon Kim, Luca Mottola, Jeho Lee, <u>Seonghoon Park</u>, Hojung Cha, Thiemo Voigt
+*IEEE/ACM EMSOFT 2025, To Appear (Acceptance rate: 26.6%)*  
+
 **viNPU: Optimizing Vision Transformer Inference on Mobile NPUs**  
 Jeho Lee, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, <u>Seonghoon Park</u>, Hojung Cha  
-*ACM EuroSys 2026, to appear (Acceptance rate: 18.5% for the fall round)*  
+*ACM EuroSys 2026 (Acceptance rate: 18.5% for the fall round)*  
+[[Paper]](https://dl.acm.org/doi/10.1145/3767295.3803619)
 
 **3DGS on Your Phone: Towards Fully Immersive Mobile Volumetric Video Streaming**  
 Gunjoong Kim\*, <u>Seonghoon Park</u>\*, Jeho Lee, Chanyoung Jung, Hyungchol Jun, and Hojung Cha  
-*ACM GetMobile, to appear (Invited Research Highlight)*  
+*ACM GetMobile, Vol. 30, No. 1 (Invited Research Highlight)*  
+[[Paper]](https://dl.acm.org/doi/10.1145/3810919.3810924)
 
 **VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality**  
 Jeho Lee\*, Chanyoung Jung\*, Gunjoong Kim, Jiwon Kim, <u>Seonghoon Park</u>, and Hojung Cha  

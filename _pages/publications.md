@@ -8,7 +8,7 @@ author_profile: true
 \* indicates co-first authors.
 
 ## 2026
-**DynaStitch: Dynamic ViT Inference via Neural Stitching for Resource-Constrained Edge Devices**
+**DynaStitch: Dynamic ViT Inference via Neural Stitching for Resource-Constrained Edge Devices**  
 Jiwon Kim, Luca Mottola, Jeho Lee, <u>Seonghoon Park</u>, Hojung Cha, Thiemo Voigt
 *IEEE/ACM EMSOFT 2025, To Appear (Acceptance rate: 26.6%)*  
 

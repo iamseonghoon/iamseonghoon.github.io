@@ -9,11 +9,11 @@ author_profile: true
 
 ## 2026
 **DynaStitch: Dynamic ViT Inference via Neural Stitching for Resource-Constrained Edge Devices**  
-Jiwon Kim, Luca Mottola, Jeho Lee, <u>Seonghoon Park</u>, Hojung Cha, Thiemo Voigt  
-*IEEE/ACM EMSOFT 2025, To Appear (Acceptance rate: 26.6%)*  
+Jiwon Kim, Luca Mottola, Jeho Lee, <u>Seonghoon Park</u>, Hojung Cha, and Thiemo Voigt  
+*IEEE/ACM EMSOFT 2026, To Appear (Acceptance rate: 26.6%)*  
 
 **viNPU: Optimizing Vision Transformer Inference on Mobile NPUs**  
-Jeho Lee, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, <u>Seonghoon Park</u>, Hojung Cha  
+Jeho Lee, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, <u>Seonghoon Park</u>, and Hojung Cha  
 *ACM EuroSys 2026 (Acceptance rate: 18.5% for the fall round)*  
 [[Paper]](https://dl.acm.org/doi/10.1145/3767295.3803619)
 

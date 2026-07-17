@@ -22,8 +22,8 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.  
 
 **On-device AI:**
-* Dynamic ViT inference on edge devices [[EMSOFT '26 (To Appear)]]
-* Optimizing ViT inference for NPUs [[EuroSys '26](https://seonghoon.page/publications/)]
+* Dynamic ViT inference on edge devices [[EMSOFT '26]](https://seonghoon.page/publications/)
+* Optimizing ViT inference for mobile NPUs [[EuroSys '26](https://dl.acm.org/doi/10.1145/3767295.3803619)]
 * Real-time VFM inference with heterogenous processors [[MobiSys '25](https://dl.acm.org/doi/10.1145/3711875.3729161)]
 
 **Mobile immersive computing:**

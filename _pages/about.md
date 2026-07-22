@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Associate in Computer Science at Virginia Tech, supervised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof. Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php).
+I am an Incoming Assistant Professor in the Department of Computer Science and Engineering at Yonsei University, South Korea. I am currently a Postdoctoral Associate in Computer Science at Virginia Tech, supervised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof. Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php).
 
 Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science from Yonsei University, Seoul, South Korea in August 2025. During my Ph.D, I was a member of Mobile Embedded Systems Lab supervised by [Prof. Hojung Cha](https://mobed.yonsei.ac.kr/). I also received the B.S. degree in Computer Science and Engineering from Yonsei University in February 2018.
 
-📣 I will be joining Yonsei University as an Assistant Professor in the Department of Computer Science and Engineering starting in Fall 2026. I am looking for highly motivated Ph.D. and M.S. students.
+<!-- 📣 I will be joining Yonsei University as an Assistant Professor in the Department of Computer Science and Engineering starting in Fall 2026. I am looking for highly motivated Ph.D. and M.S. students.
+{: .notice--warning} -->
+
+📣 [Mobile AI and Systems Lab @ Yonsei](https://mais.yonsei.ac.kr)
 {: .notice--warning}
 
 **✉️ E-mail:** *seonghoon.park (at) yonsei.ac.kr*  or *seonghoon (at) vt.edu* 
 {: .notice--info}
 
-
-## Research Interests 💡
+<!-- ## Research Interests 💡
 My research in **mobile systems and mobile computing** focuses on pushing the boundaries of what mobile devices can deliver, enabling advanced mobile experiences such as AI and XR.  
 
 **On-device AI:**
@@ -37,12 +39,12 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 **Cross-device computing:**
 * Cross-device web computing [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621433), [INFOCOM '23](https://dl.acm.org/doi/10.1145/3581791.3596851)]
-* Mobile-edge collaborative computing for real-time AI/XR applications
+* Mobile-edge collaborative computing for real-time AI/XR applications -->
 
 
 ## Academic Servicies ✍️
 **Technical Program Committee (TPC):**
-* 2027: IEEE INFOCOM  
+* 2027: ACM MobiCom, IEEE INFOCOM  
 * 2026: ACM MobiSys, IEEE/IFIP WiOpt, ACM ImmerCom Workshop (Co-located with ACM MobiCom)   
 
 **Journal Reviewer:**
@@ -52,6 +54,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 
 ## News 📢
+* **[2026.07]** I have been invited to serve on the TPC for ACM MobiCom 2027.
 * **[2026.07]** One paper has been accepted to IEEE/ACM EMSOFT 2026.
 * **[2026.04]** I have been invited to serve on the TPC for ACM ImmerCom Workshop 2026, which will be held in conjution with ACM MobiCom 2026.
 * **[2026.04]** I have been invited to serve on the TPC for IEEE INFOCOM 2027.

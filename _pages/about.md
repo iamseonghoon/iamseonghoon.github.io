@@ -14,7 +14,7 @@ Prior to joing Virginia Tech, I received the Ph.D. degree in Computer Science fr
 <!-- 📣 I will be joining Yonsei University as an Assistant Professor in the Department of Computer Science and Engineering starting in Fall 2026. I am looking for highly motivated Ph.D. and M.S. students.
 {: .notice--warning} -->
 
-📣 [Mobile AI and Systems Lab @ Yonsei](https://mais.yonsei.ac.kr)
+📣 Mobile AI and Systems Lab @ Yonsei is opening soon! [Link](https://mais.yonsei.ac.kr)
 {: .notice--warning}
 
 **✉️ E-mail:** *seonghoon.park (at) yonsei.ac.kr*  or *seonghoon (at) vt.edu* 

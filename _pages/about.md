@@ -16,7 +16,7 @@ I am an Assistant Professor in the Department of Computer Science and Engineerin
 📣 Mobile AI and Systems Lab @ Yonsei is opening soon! [Lab website](https://mais.yonsei.ac.kr)
 {: .notice--warning}
 
-**✉️ E-mail:** *seonghoon.park (at) yonsei.ac.kr*  or *seonghoon (at) vt.edu* 
+**✉️ E-mail:** *seonghoon.park (at) yonsei.ac.kr* 
 {: .notice--info}
 
 <!-- ## Research Interests 💡
@@ -53,7 +53,7 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 
 ## News 📢
-* **[2026.09]** I wil join Yonsei University as an Assistant Professor on September 1!
+* **[2026.09]** I joined Yonsei University as an Assistant Professor on September 1!
 * **[2026.07]** I have been invited to serve on the TPC for ACM MobiCom 2027.
 * **[2026.07]** One paper has been accepted to IEEE/ACM EMSOFT 2026.
 * **[2026.04]** I have been invited to serve on the TPC for ACM ImmerCom Workshop 2026, which will be held in conjution with ACM MobiCom 2026.

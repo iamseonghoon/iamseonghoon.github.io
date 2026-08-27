@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science and Engineering at Yonsei University, South Korea. Prior to joing Yonsei University, I was a Postdoctoral Associate in Computer Science at Virginia Tech, working with [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof. Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php), from October 2025 to August 2026. I received the Ph.D. degree in Computer Science from Yonsei University, Seoul, South Korea in August 2025. During my Ph.D, I was a member of Mobile Embedded Systems Lab supervised by [Prof. Hojung Cha](https://mobed.yonsei.ac.kr/). I received the B.S. degree in Computer Science and Engineering from Yonsei University in February 2018.
+I am an Assistant Professor in the Department of Computer Science and Engineering at Yonsei University, South Korea. I lead [Mobile AI and Systems Lab](https://mais.yonsei.ac.kr).
+
+Prior to joing Yonsei University, I was a Postdoctoral Associate in Computer Science at Virginia Tech, working with [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof. Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php), from October 2025 to August 2026. I received the Ph.D. degree in Computer Science from Yonsei University, Seoul, South Korea in August 2025. During my Ph.D, I was a member of Mobile Embedded Systems Lab supervised by [Prof. Hojung Cha](https://mobed.yonsei.ac.kr/). I received the B.S. degree in Computer Science and Engineering from Yonsei University in February 2018.
 
 
 <!-- 📣 I will be joining Yonsei University as an Assistant Professor in the Department of Computer Science and Engineering starting in Fall 2026. I am looking for highly motivated Ph.D. and M.S. students.
 {: .notice--warning} -->
 
-📣 Mobile AI and Systems Lab @ Yonsei is opening soon! [Lab website](https://mais.yonsei.ac.kr)
-{: .notice--warning}
+<!-- 📣 Mobile AI and Systems Lab @ Yonsei is opening soon! [Lab website](https://mais.yonsei.ac.kr)
+{: .notice--warning} -->
 
 **✉️ E-mail:** *seonghoon.park (at) yonsei.ac.kr* 
 {: .notice--info}

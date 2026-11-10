@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science and Engineering at Yonsei University, South Korea. I lead [Mobile AI and Systems Lab](https://mais.yonsei.ac.kr).
+I am an Assistant Professor in the Department of Computer Science and Engineering at Yonsei University, South Korea. I lead Mobile AI and Systems Lab.
 
 Prior to joing Yonsei University, I was a Postdoctoral Associate in Computer Science at Virginia Tech, working with [Prof. Bo Ji](https://people.cs.vt.edu/boji/) and [Prof. Lingjia Liu](https://computing.ece.vt.edu/~lingjialiu/doku.php), from October 2025 to August 2026. I received the Ph.D. degree in Computer Science from Yonsei University, Seoul, South Korea in August 2025. During my Ph.D, I was a member of Mobile Embedded Systems Lab supervised by [Prof. Hojung Cha](https://mobed.yonsei.ac.kr/). I received the B.S. degree in Computer Science and Engineering from Yonsei University in February 2018.
+
+I no longer maintain this page. For details, please visit my [lab's page](https://mais.yonsei.ac.kr)!
 
 
 <!-- 📣 I will be joining Yonsei University as an Assistant Professor in the Department of Computer Science and Engineering starting in Fall 2026. I am looking for highly motivated Ph.D. and M.S. students.
@@ -45,16 +47,17 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 
 ## Academic Servicies ✍️
 **Technical Program Committee (TPC):**
-* 2027: ACM MobiCom, IEEE INFOCOM  
+* 2027: ACM MobiCom, IEEE INFOCOM, IEEE/IFIP WiOpt  
 * 2026: ACM MobiSys, IEEE/IFIP WiOpt, ACM ImmerCom Workshop (Co-located with ACM MobiCom)   
 
 **Journal Reviewer:**
 * IEEE Transactions on Mobile Computing (TMC)  
 * IEEE/ACM Transactions on Networking (ToN)  
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* Pervasive and Mobile Computing (PMC)  
 
 
-## News 📢
+<!-- ## News 📢
 * **[2026.09]** I joined Yonsei University as an Assistant Professor on September 1!
 * **[2026.07]** I have been invited to serve on the TPC for ACM MobiCom 2027.
 * **[2026.07]** One paper has been accepted to IEEE/ACM EMSOFT 2026.
@@ -72,4 +75,4 @@ My research in **mobile systems and mobile computing** focuses on pushing the bo
 * **[2024.06]** I received a Ph.D. Fellowship from the National Research Foundation of Korea (NRF).
 * **[2023.12]** One paper has been accepted to IEEE INFOCOM 2024.
 * **[2023.05]** One paper has been accepted to ACM MobiSys 2023.
-* **[2022.12]** One paper has been accepted to IEEE INFOCOM 2023.
+* **[2022.12]** One paper has been accepted to IEEE INFOCOM 2023. -->

@@ -9,7 +9,7 @@
 {% else %}
 <em>{% include publication-venue.html type=paper.type abbr=paper.abbr name=paper.venue year=year.year acceptance_rate=paper.acceptance_rate %}{% for tag in paper.tags %}{% unless tag contains 'Award' %} ({{ tag }}){% endunless %}{% endfor %}</em>
 {% endif %}
-{% for tag in paper.tags %}{% if tag contains 'Award' %}<br /><strong><em>{{ tag }}</em></strong>{% endif %}{% endfor %}
+{% for tag in paper.tags %}{% if tag contains 'Award' %}<br /><strong>{{ tag }}</strong>{% endif %}{% endfor %}
 {% if paper.pdf or paper.video or paper.demo or paper.teaser %}<br />{% endif %}
 {% if paper.pdf %}<a href="{{ paper.pdf }}">[Paper]</a>{% endif %}{% if paper.video %} <a href="{{ paper.video }}">[Video]</a>{% endif %}{% if paper.demo %} <a href="{{ paper.demo }}">[Demo]</a>{% endif %}{% if paper.teaser %} <a href="{{ paper.teaser }}">[Teaser]</a>{% endif %}
 </p>

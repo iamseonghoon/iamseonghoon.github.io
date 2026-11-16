@@ -1,0 +1,12 @@
+{% if include.type == 'conference' %}
+{% case include.abbr %}
+{% when 'SenSys' %}{% assign publisher = 'ACM/IEEE' %}
+{% when 'EMSOFT' %}{% assign publisher = 'IEEE/ACM' %}
+{% when 'EuroSys' or 'MobiCom' or 'MobiSys' %}{% assign publisher = 'ACM' %}
+{% when 'INFOCOM' or 'PerCom' %}{% assign publisher = 'IEEE' %}
+{% else %}{% assign publisher = nil %}
+{% endcase %}
+In Proceedings of {% if publisher %}{{ publisher }} {% endif %}{{ include.abbr }} {{ include.year }}{% if include.name contains '(to appear)' %} (to appear){% endif %}{% if include.acceptance_rate %} (Acceptance rate: {{ include.acceptance_rate }}){% endif %}
+{% else %}
+{{ include.name }}
+{% endif %}

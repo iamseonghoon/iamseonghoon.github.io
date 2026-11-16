@@ -1,0 +1,17 @@
+{% for year in site.data.publications.full %}
+<h2>{{ year.year }}</h2>
+{% for paper in year.papers %}
+<p>
+<strong>{{ paper.title }}</strong><br />
+{% assign authors = paper.authors | replace: 'Seonghoon Park', '<u>Seonghoon Park</u>' %}{{ authors }}<br />
+{% if paper.venues %}
+{% for venue in paper.venues %}<em>{{ venue.name }}{% if venue.type == 'conference' and paper.acceptance_rate %} (Acceptance rate: {{ paper.acceptance_rate }}){% endif %}</em>{% unless forloop.last %}<br />{% endunless %}{% endfor %}
+{% else %}
+<em>{{ paper.venue }}{% if paper.acceptance_rate %} (Acceptance rate: {{ paper.acceptance_rate }}){% endif %}{% for tag in paper.tags %}{% unless tag contains 'Award' %} ({{ tag }}){% endunless %}{% endfor %}</em>
+{% endif %}
+{% for tag in paper.tags %}{% if tag contains 'Award' %}<br /><strong><em>{{ tag }}</em></strong>{% endif %}{% endfor %}
+{% if paper.pdf or paper.video or paper.demo or paper.teaser %}<br />{% endif %}
+{% if paper.pdf %}<a href="{{ paper.pdf }}">[Paper]</a>{% endif %}{% if paper.video %} <a href="{{ paper.video }}">[Video]</a>{% endif %}{% if paper.demo %} <a href="{{ paper.demo }}">[Demo]</a>{% endif %}{% if paper.teaser %} <a href="{{ paper.teaser }}">[Teaser]</a>{% endif %}
+</p>
+{% endfor %}
+{% endfor %}

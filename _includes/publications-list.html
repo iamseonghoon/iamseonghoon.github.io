@@ -5,9 +5,9 @@
 <strong>{{ paper.title }}</strong><br />
 {% assign authors = paper.authors | replace: 'Seonghoon Park', '<u>Seonghoon Park</u>' %}{{ authors }}<br />
 {% if paper.venues %}
-{% for venue in paper.venues %}<em>{% include publication-venue.html type=venue.type abbr=venue.abbr name=venue.name year=year.year acceptance_rate=paper.acceptance_rate %}</em>{% unless forloop.last %}<br />{% endunless %}{% endfor %}
+{% for venue in paper.venues %}<em>{% include publication-venue.html type=venue.type abbr=venue.abbr proceedings=venue.proceedings name=venue.name year=year.year acceptance_rate=paper.acceptance_rate %}</em>{% unless forloop.last %}<br />{% endunless %}{% endfor %}
 {% else %}
-<em>{% include publication-venue.html type=paper.type abbr=paper.abbr name=paper.venue year=year.year acceptance_rate=paper.acceptance_rate %}{% for tag in paper.tags %}{% unless tag contains 'Award' %} ({{ tag }}){% endunless %}{% endfor %}</em>
+<em>{% include publication-venue.html type=paper.type abbr=paper.abbr proceedings=paper.proceedings name=paper.venue year=year.year acceptance_rate=paper.acceptance_rate %}{% for tag in paper.tags %}{% unless tag contains 'Award' %} ({{ tag }}){% endunless %}{% endfor %}</em>
 {% endif %}
 {% for tag in paper.tags %}{% if tag contains 'Award' %}<br /><strong>{{ tag }}</strong>{% endif %}{% endfor %}
 {% if paper.pdf or paper.video or paper.demo or paper.teaser %}<br />{% endif %}
